@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎁 Hediye Bulucu - Yapay Zeka Destekli Hediye Önerileri 🎁
 
 Aradığınız mükemmel hediyeyi bulmakta zorlanıyor musunuz? Hediye Bulucu, yapay zeka teknolojisi ile size özel hediye önerileri sunarak bu süreci kolaylaştırır!
@@ -15,3 +16,21 @@ Aradığınız mükemmel hediyeyi bulmakta zorlanıyor musunuz? Hediye Bulucu, y
 🔧 Kişiselleştirilebilir Ayarlar: Hediye önerilerinizi daha da kişiselleştirmek için uygulama ayarlarınızı özelleştirin.
 
 En özel anlarınızda sevdiklerinizi mutlu etmek artık çok daha kolay. Hediye Bulucu ile en yaratıcı ve anlamlı hediye fikirlerine hemen ulaşın!
+=======
+# mindbox
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 5c6ba4a (version 1.0)
